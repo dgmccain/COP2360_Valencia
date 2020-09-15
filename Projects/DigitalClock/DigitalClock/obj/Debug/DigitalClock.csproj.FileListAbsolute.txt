@@ -1,0 +1,18 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb

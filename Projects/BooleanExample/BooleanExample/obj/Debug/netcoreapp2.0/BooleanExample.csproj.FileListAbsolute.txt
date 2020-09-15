@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\bin\Debug\netcoreapp2.0\BooleanExample.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\bin\Debug\netcoreapp2.0\BooleanExample.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\bin\Debug\netcoreapp2.0\BooleanExample.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\bin\Debug\netcoreapp2.0\BooleanExample.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\bin\Debug\netcoreapp2.0\BooleanExample.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\BooleanExample\BooleanExample\obj\Debug\netcoreapp2.0\BooleanExample.pdb

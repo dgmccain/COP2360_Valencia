@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp2.0\TestClassifiedAd.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp2.0\TestClassifiedAd.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp2.0\TestClassifiedAd.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp2.0\TestClassifiedAd.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp2.0\TestClassifiedAd.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 3\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp2.0\TestClassifiedAd.pdb

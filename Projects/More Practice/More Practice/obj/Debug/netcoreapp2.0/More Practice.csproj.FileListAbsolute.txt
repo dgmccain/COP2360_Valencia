@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\bin\Debug\netcoreapp2.0\More Practice.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\bin\Debug\netcoreapp2.0\More Practice.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\bin\Debug\netcoreapp2.0\More Practice.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\bin\Debug\netcoreapp2.0\More Practice.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\bin\Debug\netcoreapp2.0\More Practice.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\More Practice\More Practice\obj\Debug\netcoreapp2.0\More Practice.pdb

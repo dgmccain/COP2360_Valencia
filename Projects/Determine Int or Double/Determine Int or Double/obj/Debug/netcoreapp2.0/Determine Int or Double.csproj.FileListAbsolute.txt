@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\bin\Debug\netcoreapp2.0\Determine Int or Double.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\bin\Debug\netcoreapp2.0\Determine Int or Double.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\bin\Debug\netcoreapp2.0\Determine Int or Double.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\bin\Debug\netcoreapp2.0\Determine Int or Double.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\bin\Debug\netcoreapp2.0\Determine Int or Double.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Determine Int or Double\Determine Int or Double\obj\Debug\netcoreapp2.0\Determine Int or Double.pdb

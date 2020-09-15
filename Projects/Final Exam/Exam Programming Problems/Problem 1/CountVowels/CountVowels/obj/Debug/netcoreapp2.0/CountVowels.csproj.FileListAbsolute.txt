@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\bin\Debug\netcoreapp2.0\CountVowels.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\bin\Debug\netcoreapp2.0\CountVowels.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\bin\Debug\netcoreapp2.0\CountVowels.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\bin\Debug\netcoreapp2.0\CountVowels.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\bin\Debug\netcoreapp2.0\CountVowels.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Final Exam\Exam Programming Problems\Problem 1\CountVowels\CountVowels\obj\Debug\netcoreapp2.0\CountVowels.pdb

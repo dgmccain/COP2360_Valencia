@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\bin\Debug\netcoreapp2.0\Connect Names with Values and Lists.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\bin\Debug\netcoreapp2.0\Connect Names with Values and Lists.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\bin\Debug\netcoreapp2.0\Connect Names with Values and Lists.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\bin\Debug\netcoreapp2.0\Connect Names with Values and Lists.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\bin\Debug\netcoreapp2.0\Connect Names with Values and Lists.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Connect Names with Values and Lists\Connect Names with Values and Lists\obj\Debug\netcoreapp2.0\Connect Names with Values and Lists.pdb

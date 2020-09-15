@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\bin\Debug\netcoreapp2.0\Using Out Reference.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\bin\Debug\netcoreapp2.0\Using Out Reference.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\bin\Debug\netcoreapp2.0\Using Out Reference.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\bin\Debug\netcoreapp2.0\Using Out Reference.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\bin\Debug\netcoreapp2.0\Using Out Reference.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Out Reference\Using Out Reference\obj\Debug\netcoreapp2.0\Using Out Reference.pdb

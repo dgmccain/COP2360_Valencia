@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\bin\Debug\netcoreapp2.0\ArgumentException Example.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\bin\Debug\netcoreapp2.0\ArgumentException Example.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\bin\Debug\netcoreapp2.0\ArgumentException Example.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\bin\Debug\netcoreapp2.0\ArgumentException Example.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\bin\Debug\netcoreapp2.0\ArgumentException Example.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\ArgumentException Example\ArgumentException Example\obj\Debug\netcoreapp2.0\ArgumentException Example.pdb

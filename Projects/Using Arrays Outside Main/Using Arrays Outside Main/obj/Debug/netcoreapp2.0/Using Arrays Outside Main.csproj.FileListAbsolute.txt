@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\bin\Debug\netcoreapp2.0\Using Arrays Outside Main.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\bin\Debug\netcoreapp2.0\Using Arrays Outside Main.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\bin\Debug\netcoreapp2.0\Using Arrays Outside Main.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\bin\Debug\netcoreapp2.0\Using Arrays Outside Main.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\bin\Debug\netcoreapp2.0\Using Arrays Outside Main.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using Arrays Outside Main\Using Arrays Outside Main\obj\Debug\netcoreapp2.0\Using Arrays Outside Main.pdb

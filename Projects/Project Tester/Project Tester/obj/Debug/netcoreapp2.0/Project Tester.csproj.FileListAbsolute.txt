@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.pdb
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.deps.json
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.runtimeconfig.json
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.dll
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\bin\Debug\netcoreapp2.0\Project Tester.pdb
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.dll
+C:\Users\david\Desktop\School - Previous Semesters\School - Spring 2019\COP 2360\Project Tester\Project Tester\obj\Debug\netcoreapp2.0\Project Tester.pdb

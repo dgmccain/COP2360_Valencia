@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp2.0\Classes and Objects.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp2.0\Classes and Objects.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp2.0\Classes and Objects.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp2.0\Classes and Objects.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\bin\Debug\netcoreapp2.0\Classes and Objects.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Classes and Objects\Classes and Objects\obj\Debug\netcoreapp2.0\Classes and Objects.pdb

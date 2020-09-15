@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\bin\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\bin\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\bin\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\bin\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\bin\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Understanding Multidimensional Arrays\Understanding Multidimensional Arrays\obj\Debug\netcoreapp2.0\Understanding Multidimensional Arrays.pdb

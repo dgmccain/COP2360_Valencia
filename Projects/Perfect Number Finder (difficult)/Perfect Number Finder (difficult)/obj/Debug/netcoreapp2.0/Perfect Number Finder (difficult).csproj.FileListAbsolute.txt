@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\bin\Debug\netcoreapp2.0\Perfect Number Finder (difficult).deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\bin\Debug\netcoreapp2.0\Perfect Number Finder (difficult).runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\bin\Debug\netcoreapp2.0\Perfect Number Finder (difficult).runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\bin\Debug\netcoreapp2.0\Perfect Number Finder (difficult).dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\bin\Debug\netcoreapp2.0\Perfect Number Finder (difficult).pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Perfect Number Finder (difficult)\Perfect Number Finder (difficult)\obj\Debug\netcoreapp2.0\Perfect Number Finder (difficult).pdb

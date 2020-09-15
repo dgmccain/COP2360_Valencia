@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\bin\Debug\netcoreapp2.0\FirstInputOutputCode.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\bin\Debug\netcoreapp2.0\FirstInputOutputCode.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\bin\Debug\netcoreapp2.0\FirstInputOutputCode.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\bin\Debug\netcoreapp2.0\FirstInputOutputCode.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\bin\Debug\netcoreapp2.0\FirstInputOutputCode.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\FirstInputOutputCode\FirstInputOutputCode\obj\Debug\netcoreapp2.0\FirstInputOutputCode.pdb

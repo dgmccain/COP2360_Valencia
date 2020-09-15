@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\bin\Debug\netcoreapp2.0\Using ArgumentException Across Classes.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\bin\Debug\netcoreapp2.0\Using ArgumentException Across Classes.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\bin\Debug\netcoreapp2.0\Using ArgumentException Across Classes.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\bin\Debug\netcoreapp2.0\Using ArgumentException Across Classes.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\bin\Debug\netcoreapp2.0\Using ArgumentException Across Classes.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\Using ArgumentException Across Classes\Using ArgumentException Across Classes\obj\Debug\netcoreapp2.0\Using ArgumentException Across Classes.pdb

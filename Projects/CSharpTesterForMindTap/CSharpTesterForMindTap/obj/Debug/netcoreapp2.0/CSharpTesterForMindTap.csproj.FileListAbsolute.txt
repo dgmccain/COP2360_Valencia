@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\bin\Debug\netcoreapp2.0\CSharpTesterForMindTap.deps.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\bin\Debug\netcoreapp2.0\CSharpTesterForMindTap.runtimeconfig.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\bin\Debug\netcoreapp2.0\CSharpTesterForMindTap.runtimeconfig.dev.json
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\bin\Debug\netcoreapp2.0\CSharpTesterForMindTap.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\bin\Debug\netcoreapp2.0\CSharpTesterForMindTap.pdb
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.AssemblyInfo.cs
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.dll
+C:\Users\david\Desktop\School - Spring 2019\COP 2360\CSharpTesterForMindTap\CSharpTesterForMindTap\obj\Debug\netcoreapp2.0\CSharpTesterForMindTap.pdb
