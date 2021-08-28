@@ -1,0 +1,20 @@
+How to covert user input to all lowercase...
+
+in C# use .ToLower() at the end of user input.
+
+
+Example...
+
+string answer;
+WriteLine("type 'yes' to continue...");
+answer = ReadLine().ToLower();
+
+...now even if the user types 'YES' it should be stored as 'yes'.
+
+
+
+potential C++ program implementation...
+
+char answerKey;
+cout << "Enter 'Y' to continue: ";
+cin >> answerKey.ToLower;
